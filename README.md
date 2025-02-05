@@ -3,7 +3,8 @@
 Os relatórios apresentados nas imagens fornecem uma visão detalhada sobre o impacto da COVID-19 em diferentes regiões do mundo, com foco especial no Brasil. Abaixo, destacamos as principais informações obtidas a partir desses dados.
 
 ## Dados Globais
-
+![pagina1](https://github.com/WenFra005/Relatorio-sobre-a-Covid19/blob/main/relatorio_pagina/Imagem1%20-%20Copia.png)
+![pagina1-outro](https://github.com/WenFra005/Relatorio-sobre-a-Covid19/blob/main/relatorio_pagina/Imagem2%20-%20Copia.png)
 - **Total de Casos**: 775,94 milhões
 - **Total de Mortes**: 7,06 milhões
 
@@ -22,6 +23,7 @@ Os relatórios apresentados nas imagens fornecem uma visão detalhada sobre o im
 - Outros países com alto número de mortes incluem Rússia, México, Reino Unido, Peru, Itália, Alemanha, França, Indonésia e Irã.
 
 ## Regiões Mais Afetadas
+![pagina2](https://github.com/WenFra005/Relatorio-sobre-a-Covid19/blob/main/relatorio_pagina/Imagem3%20-%20Copia.png)
 
 ### Casos por Região
 - **Europa**: 0,28 bilhão de casos.
@@ -42,6 +44,7 @@ Os relatórios apresentados nas imagens fornecem uma visão detalhada sobre o im
 - **Outros**: 0,00 milhão de mortes.
 
 ## Dados do Brasil
+![pagina3](https://github.com/WenFra005/Relatorio-sobre-a-Covid19/blob/main/relatorio_pagina/Imagem4%20-%20Copia.png)
 
 - **Total de Casos**: 37,51 milhões
 - **Pico de Casos**: 21,09 mil
