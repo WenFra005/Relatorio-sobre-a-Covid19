@@ -68,6 +68,9 @@ Os relatórios sobre a COVID-19 fornecem dados abrangentes sobre a disseminaçã
 ### Mortes Registradas (2020-2024)
 - As mortes também seguiram uma tendência de aumento e diminuição ao longo dos anos.
 
+## Fontes
+Os dados foram extraídos de um dataset localizado no site **Kaggles** que está no seguinte link:
+https://www.kaggle.com/datasets/mohammadrezagim/who-covid-19-global-data
 ## Conclusão
 
 Os dados apresentados destacam o impacto significativo da COVID-19 em todo o mundo, com milhões de casos e mortes registrados. O Brasil foi severamente afetado, com um alto número de casos e mortes. A análise por região mostra que a Europa e as Américas foram as mais impactadas. Esses dados são essenciais para entender a evolução da pandemia e para orientar políticas de saúde pública futuras, incluindo a implementação de regulamentos e campanhas de vacinação.
